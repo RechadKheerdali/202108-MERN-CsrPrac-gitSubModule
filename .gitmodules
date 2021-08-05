@@ -1,0 +1,6 @@
+[submodule "202108-05MERNsetupStudy"]
+	path = 202108-05MERNsetupStudy
+	url = https://github.com/RechadKheerdali/202108-05MERNsetupStudy.git
+[submodule "202108-csrSetupForMERNsetupStudy"]
+	path = 202108-csrSetupForMERNsetupStudy
+	url = https://github.com/RechadKheerdali/202108-csrSetupForMERNsetupStudy.git
