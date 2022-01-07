@@ -1,6 +1,6 @@
-[submodule "202108-05MERNsetupStudy"]
-	path = 202108-05MERNsetupStudy
-	url = https://github.com/RechadKheerdali/202108-05MERNsetupStudy.git
-[submodule "202108-csrSetupForMERNsetupStudy"]
-	path = 202108-csrSetupForMERNsetupStudy
-	url = https://github.com/RechadKheerdali/202108-csrSetupForMERNsetupStudy.git
+[submodule "202108-frontendMERN-iKboil"]
+	path = 202108-frontendMERN-iKboil
+	url = https://github.com/RechadSalma/202108-frontendMERN-iKboil.git
+[submodule "202108-backendMERN-iKboil"]
+	path = 202108-backendMERN-iKboil
+	url = https://github.com/RechadSalma/202108-backendMERN-iKboil.git
